@@ -3,7 +3,7 @@
 builded with brand treversy tutorial check out the code and enjoy your classes with your private property just like 
 # bootstrap framework 🔥
 
-👍 # clone and amend propierties 
+👍 # clone and amend properties 
 https://github.com/mahmoud-mohasseb/scssownframework.git
 
 
